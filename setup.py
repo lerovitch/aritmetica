@@ -1,10 +1,8 @@
 from setuptools import  setup, find_packages
 
-__VERSION__ = '0.1.b'
-
 setup(
     name = "aritmetica",
-    version = __VERSION__,
+    version = "0.1",
     description = "aritmetica modules",
     author = 'Sergi',
     author_email = 'lerovitch@yahoo.es',
